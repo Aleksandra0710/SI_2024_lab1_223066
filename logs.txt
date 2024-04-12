@@ -1,0 +1,35 @@
+Author: Aleksandra Ristova <aleksandra.ristova@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:31:21 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 43cc140f5bb220a909dc326907a1f9bf009aac0c
+Author: Aleksandra Ristova <aleksandra.ristova@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:23:35 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit f37b6d1b6944854103a7374e7b4ef5b51947e17c (origin/bug1, bug1)
+Author: Aleksandra Ristova <aleksandra.ristova@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:27:43 2024 +0200
+
+    а Call method filterOddLengthStrings in main class
+
+commit 7e85f09eb01eb8541dc4a0242fb0fbd2be2aea5e
+Author: Aleksandra Ristova <aleksandra.ristova@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:19:27 2024 +0200
+
+    Fix wrong condition in filterOddLenghtStrings
+
+commit 77ba458b742aae59fc7f3281a7db8c6106d95b65
+Author: Aleksandra Ristova <aleksandra.ristova@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:09:08 2024 +0200
+
+    Add starter code
+
+commit ec398fcb059989d7a2803495d20a434dddbd9103
+Author: Aleksandra Ristova <aleksandra.ristova@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:00:27 2024 +0200
+
+    Initial commit
+(END)
